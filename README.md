@@ -57,10 +57,10 @@ Ensure you have the following installed before running the application:
    CREATE DATABASE bankappdb;
 2. **Update Application Properties**
    Update the src/main/resources/application.properties file with your MySQL credentials. Replace yourpassword with your actual MySQL password:
-   spring.datasource.url=jdbc:mysql://localhost:3306/bankappdb
-   spring.datasource.username=root
-   spring.datasource.password=yourpassword
-   spring.jpa.hibernate.ddl-auto=update
+   spring.datasource.url=jdbc:mysql://localhost:3306/bankappdb.
+   spring.datasource.username=root.
+   spring.datasource.password=yourpassword.
+   spring.jpa.hibernate.ddl-auto=update.
 ### 4. Build and Run the Application
     ```bash
     mvn clean install

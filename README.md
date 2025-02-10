@@ -7,15 +7,15 @@
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
   - [1. Clone the Repository](#1-clone-the-repository)
-  - [2. Configure Database](#2-configure-database)
-  - [3. Build and Run the Application](#3-build-and-run-the-application)
-  - [4. Access the Application](#4-access-the-application)
+  - [2. Navigate to the project directory](#2-Navigate-to-the-project-directory)
+  - [3. Configure Database](#3-configure-database)
+  - [4. Build and Run the Application](#4-build-and-run-the-application)
+  - [5. Access the Application](#5-access-the-application)
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
 - [Security](#security)
 - [Future Enhancements](#future-enhancements)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ## Overview
 This is a web-based Banking Application built using **Spring Boot**, **Thymeleaf**, **MySQL**, and **Java**. The application provides essential banking functionalities such as user authentication, account management, transactions, and balance inquiry.
@@ -108,3 +108,12 @@ Below are some planned features and enhancements for the application:
 - **Two-Factor Authentication (2FA):** Add an extra layer of security for user accounts.
 - **Notification System:** Implement real-time notifications for transactions and account activities.
 - **Mobile Banking API:** Introduce a RESTful API to support mobile banking applications.
+## Screenshots
+ ![Screenshot 2025-02-10 214026](https://github.com/user-attachments/assets/43ba790d-d6b3-4602-bf17-9aaef49b77ef)
+ ![Screenshot 2025-02-10 214005](https://github.com/user-attachments/assets/e73e1928-6fc6-4c6f-913b-b06a9ee53553)
+ ![Screenshot 2025-02-10 214114](https://github.com/user-attachments/assets/c18a3dfb-ce76-4755-8602-2fd4bda4ee6f)
+ ![Screenshot 2025-02-10 214134](https://github.com/user-attachments/assets/9c351f59-15c4-4d74-899f-5d9852079642)
+
+
+
+

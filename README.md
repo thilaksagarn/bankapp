@@ -19,7 +19,7 @@
 
 ## Overview
 This is a web-based Banking Application built using **Spring Boot**, **Thymeleaf**, **MySQL**, and **Java**. The application provides essential banking functionalities such as user authentication, account management, transactions, and balance inquiry.
-
+Our Site is live at http://ec2-51-20-75-187.eu-north-1.compute.amazonaws.com:8080/login
 ## Features
 - User authentication (Login & Registration)
 - Account management (View account details, update profile)

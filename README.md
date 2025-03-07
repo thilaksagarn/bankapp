@@ -29,7 +29,6 @@ Our Site is live at http://ec2-51-20-75-187.eu-north-1.compute.amazonaws.com:808
 - Fund transfer between accounts
 - Transaction history
 - Deposit and withdrawal functionality
-- Admin dashboard to manage users and accounts
 
 ## Tech Stack
 - **Backend:** Spring Boot, Java
@@ -102,7 +101,7 @@ Below is a list of the available API endpoints and their descriptions:
 
 The application uses **Spring Security** for authentication and authorization:
 - Passwords are securely hashed using **BCrypt** to ensure data protection.
-- Role-based access control ensures that only authorized users can access specific endpoints (e.g., `ADMIN` for the admin dashboard).
+- Role-based access control ensures that only authorized users can access specific endpoints.
 - CSRF protection is enabled to prevent cross-site request forgery attacks.
 - Session management is configured to handle user sessions securely.
 
